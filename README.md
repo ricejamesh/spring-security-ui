@@ -1,5 +1,11 @@
 # SpringSecurityUi
 
+This is going to be a basic SPA to provide login/logout capability to a spring-security based application.
+
+Initialling following some guidance at: https://jasonwatmore.com/post/2019/06/10/angular-8-user-registration-and-login-example-tutorial
+
+## Initial Readme starts here. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ## Development server
